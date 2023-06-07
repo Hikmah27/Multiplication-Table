@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.heroimage{
+    background-image: url(./images/Most-Beautiful-House-in-the-World.jpg);
+    width: 100%;
+    height: 1100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* position: relative; */
+}
+.texthero{
+    position: absolute;
+    top: 20%;
+    right: 20%;
+}
